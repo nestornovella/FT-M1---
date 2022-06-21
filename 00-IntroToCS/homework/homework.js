@@ -1,6 +1,6 @@
 function BinarioADecimal(num) {
   // tu codigo aca
-
+//dsad
 }
 
 function DecimalABinario(num) {
